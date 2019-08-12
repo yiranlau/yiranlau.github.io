@@ -223,3 +223,16 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
+#gitment
+#comment_gitment_repo: yiranlau.github.io
+#comment_gitment_clientId: 3cff538f079accfd72e9
+#comment_gitment_clientSecret: d2169894d8c9d50137aabee449e8758695195378
+
+gitment:
+  enable: true
+  githubID: yiranlau
+  repo: yiranlau.github.io
+  ClientID: 3cff538f079accfd72e9
+  ClientSecret: d2169894d8c9d50137aabee449e8758695195378
+  lazy: true
