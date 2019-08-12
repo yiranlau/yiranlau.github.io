@@ -235,4 +235,4 @@ gitment:
   repo: yiranlau.github.io
   ClientID: 3cff538f079accfd72e9
   ClientSecret: d2169894d8c9d50137aabee449e8758695195378
-  lazy: true
+  lazy: false
